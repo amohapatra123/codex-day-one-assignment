@@ -3,7 +3,7 @@ public class question6c {
 
 	public static void main(String[] args)
 	{
-		// TODO Auto-generated method stub
+		
 		int n=2019;
 		if(n%4==0)
 		{
