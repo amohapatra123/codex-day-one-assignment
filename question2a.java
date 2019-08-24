@@ -3,7 +3,6 @@ public class question2a {
 
 	public static void main(String[] args)
 	{
-		// TODO Auto-generated method stub
 		int a=8;
 		int x;
 		x=a++ + ++a + a + ++a + a++;
