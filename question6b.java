@@ -7,15 +7,17 @@ public class question6b {
 		int n=2019;
 		if(n%4==0)
 		{
-			if(n%100==00)
+
+			System.out.println("Yes A leap year");
+		}
+		else if(n%100==00)
 			{
 				if(n%400==0)
 				{
-					System.out.println("yes a leap year");
+					System.out.println("Yes a leap year");
 				}
 			}
-		}
-		else 
+                else
 		{
 			System.out.println("Not a leap year");
 			
